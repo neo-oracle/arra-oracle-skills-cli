@@ -74,7 +74,7 @@ npx arra-oracle-skills@3.6.1 install -g -y --agent claude-code codex opencode
 
 | Profile | Count | Skills |
 |---------|-------|--------|
-| **standard** | 16 | `about-oracle`, `awaken`, `contacts`, `dig`, `forward`, `go`, `inbox`, `learn`, `oracle-family-scan`, `oracle-soul-sync-update`, `recap`, `rrr`, `standup`, `talk-to`, `trace`, `xray` |
+| **standard** | 14 | `about-oracle`, `awaken`, `dig`, `forward`, `go`, `learn`, `oracle-family-scan`, `oracle-soul-sync-update`, `recap`, `rrr`, `standup`, `talk-to`, `trace`, `xray` |
 | **full** | 28 | all |
 | **lab** | 28 | all |
 

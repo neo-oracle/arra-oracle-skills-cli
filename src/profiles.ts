@@ -7,13 +7,13 @@
  */
 
 // Skills that are lab-only (experimental, not in standard or full)
-export const labOnly = ['create-shortcut', 'dream', 'feel', 'schedule', 'vault'];
+export const labOnly = ['contacts', 'create-shortcut', 'dream', 'feel', 'inbox', 'schedule', 'vault'];
 
 export const profiles: Record<string, { include?: string[]; exclude?: string[] }> = {
   standard: {
     include: [
-      'about-oracle', 'awaken', 'contacts', 'dig', 'forward', 'go',
-      'inbox', 'learn', 'oracle-family-scan', 'oracle-soul-sync-update',
+      'about-oracle', 'awaken', 'dig', 'forward', 'go',
+      'learn', 'oracle-family-scan', 'oracle-soul-sync-update',
       'recap', 'rrr', 'standup', 'talk-to', 'trace', 'xray',
     ],
   },
